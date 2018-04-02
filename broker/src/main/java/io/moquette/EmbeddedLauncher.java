@@ -1,6 +1,5 @@
 package io.moquette;
 
-import com.alibaba.fastjson.JSONObject;
 import io.moquette.interception.AbstractInterceptHandler;
 import io.moquette.interception.InterceptHandler;
 import io.moquette.interception.messages.InterceptPublishMessage;
